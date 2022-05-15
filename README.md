@@ -1,2 +1,8 @@
-# Notepad is an interactive mobile application that allows users to create, modify and delete text notes
-# The project was developed on Android Studio
+<div id="top"></div>
+
+
+## About The Project
+Fully implemented NodePad application that supports:
+* Add, edit, delete notes
+
+## Demo Videos
