@@ -6,6 +6,10 @@ Fully implemented NodePad application that supports:
 * Add, edit, delete notes
 * Notes will be sorted by creat time
 
+### Built With
+* Java
+* Android Studio
+
 ## Demo Videos
 ### Add a note
 
